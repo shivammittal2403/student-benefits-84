@@ -1,3 +1,13 @@
+# Student and NGO benefit directory
+
+- [Original 84 student resources](#84-student-benefits--freediscounted-resources) — imported from the screenshots. Several are general free tools, discounts or broad categories; this legacy list is **not** a verified set of 84 free student-only offers.
+- [47 additional student offers](STUDENT_OFFERS_ADDITIONAL.md) — official GitHub Student Developer Pack inventory checked 2026-09-27; some concepts overlap the original list.
+- [27 NGO technology offers](NGO_OFFERS.md) — official provider links with donated, credit, discount, free-tier and eligibility labels, checked 2026-09-27.
+
+**Progress against the earlier research target:** 300 additional student offers and 500 NGO offers were targets, not completed findings. The linked files contain **47 additional student offer rows and 27 NGO offer rows**, and the original list contains 84 rows. They should not be added together as a unique count without deduplication. No claim is made that all rows are completely free or available in India. Check provider terms before applying.
+
+---
+
 # 84 Student Benefits & Free/Discounted Resources
 
 1. **Google Gemini / Google AI Student** — India में Google ने eligible college students के लिए 1-year Google AI student offer announce किया है. [blog.google](https://blog.google/intl/en-in/products/start-the-academic-year-with-one-year-of-gemini-on-us/?utm_source=chatgpt.com)\
