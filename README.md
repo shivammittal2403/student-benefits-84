@@ -2,9 +2,10 @@
 
 - [Original 84 student resources](#84-student-benefits--freediscounted-resources) — imported from the screenshots. Several are general free tools, discounts or broad categories; this legacy list is **not** a verified set of 84 free student-only offers.
 - [47 additional student offers](STUDENT_OFFERS_ADDITIONAL.md) — official GitHub Student Developer Pack inventory checked 2026-09-27; some concepts overlap the original list.
-- [27 NGO technology offers](NGO_OFFERS.md) — official provider links with donated, credit, discount, free-tier and eligibility labels, checked 2026-09-27.
+- [27 NGO technology offers](NGO_OFFERS.md) — provider programs with donated, credit, discount and eligibility labels, checked 2026-09-27.
+- [101 additional free NGO-useful tools and services](NGO_FREE_TOOLS_101.md) — open-source software, free public services, and free tiers; these are broadly available tools, not nonprofit-exclusive grants.
 
-**Progress against the earlier research target:** 300 additional student offers and 500 NGO offers were targets, not completed findings. The linked files contain **47 additional student offer rows and 27 NGO offer rows**, and the original list contains 84 rows. They should not be added together as a unique count without deduplication. No claim is made that all rows are completely free or available in India. Check provider terms before applying.
+**Progress against the earlier research target:** 300 additional student offers and 500 NGO offers were targets, not completed findings. The linked files contain **47 additional student offer rows and 128 NGO-relevant rows** (27 NGO program offers + 101 distinct additional free resources), and the original list contains 84 rows. They should not be added together as a unique count without deduplication. No claim is made that all rows are completely free or available in India. Check provider terms before applying.
 
 ---
 
